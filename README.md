@@ -2,7 +2,7 @@
 Federated learning-based prediction of depression
 
 
-The paper was published in the Journal of Affective Disorders, and the original codes are provided in: https://github.com/KuangYalan/federated-mental-health
+Our paper was published in the Journal of Affective Disorders, and the original codes are provided in: https://github.com/KuangYalan/federated-mental-health
 
 ## 📖 Citation
 
